@@ -18,7 +18,7 @@
             </div>
           </div>
         </div>
-        <div class="font-thin font sans text-gray700 text-left -mt-4">
+        <div class="font-thin font-sans text-gray700 text-left-mt-4">
           Just a sandwich
         </div>
       </div>

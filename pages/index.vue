@@ -12,7 +12,7 @@
       <div class="flex h-full w-full">
         <div class="my-auto w-full">
           <div class="flex flex-col">
-            <div class="text-8x1 front poppins text-gray-800">
+            <div class="text-6xl front poppins text-gray-800">
               <span class="font-thin">Welcome to</span>
               <span class="font-thick">Sandoitchi's page</span>
             </div>
